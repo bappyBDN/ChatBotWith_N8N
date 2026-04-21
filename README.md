@@ -42,4 +42,7 @@ A smart, AI-driven automation workflow built with n8n that captures career-relat
 Feel free to fork this repository, open issues, or submit pull requests to improve the bot's logic or add new features.
 
 ---
-**Developed with ❤️ by [Your Name]**
+**Developed with ❤️ by [Bappy Chandra Debnath]**
+
+📧 **Email:** [bappynath2001@gmail.com](mailto:bappynath2001@gmail.com)  
+🌐 **Portfolio:** [bappybdn.github.io/portfolio](https://bappybdn.github.io/portfolio.html)
