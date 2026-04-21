@@ -5,7 +5,7 @@ A smart, AI-driven automation workflow built with n8n that captures career-relat
 
 ## 📸 Workflow Overview
 *Visual representation of the n8n automation pipeline.*
-![n8n Workflow](assets/workflow_main.png)
+![n8n Workflow](assets/Screenshot 2026-04-20 223355.png)
 
 ## ✨ Key Features
 - **Intelligent Link Extraction:** Automatically identifies URLs from Telegram messages using AI (Groq/Llama 3.1).
