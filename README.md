@@ -1,11 +1,10 @@
-# ChatBotWith_N8N
 # 🚀 AI-Powered Career Information Bot (n8n Automation)
 
 A smart, AI-driven automation workflow built with n8n that captures career-related links (Jobs, Courses, Internships) from Telegram groups, analyzes them using LLMs, and stores the organized data into Google Sheets.
 
 ## 📸 Workflow Overview
 *Visual representation of the n8n automation pipeline.*
-![n8n Workflow](assets/Screenshot 2026-04-20 222553.png)
+![n8n Workflow](assets/Screenshot%202026-04-20%20223355.png)
 
 ## ✨ Key Features
 - **Intelligent Link Extraction:** Automatically identifies URLs from Telegram messages using AI (Groq/Llama 3.1).
@@ -37,10 +36,10 @@ A smart, AI-driven automation workflow built with n8n that captures career-relat
 
 | Telegram Interaction | Google Sheets Database |
 |---|---|
-| ![Telegram Bot](assets/Screenshot 2026-04-22 033438.png) | ![Excel Spreadsheet](assets/excel_ss.png) |
+| ![Telegram Bot](assets/Screenshot%202026-04-22%20033415.png) | ![Excel Spreadsheet](assets/Screenshot%202026-04-20%20222533.png) |
 
 ## 🤝 Contributing
 Feel free to fork this repository, open issues, or submit pull requests to improve the bot's logic or add new features.
 
 ---
-**Developed with ❤️ by Bappy Chandra Debnath**
+**Developed with ❤️ by [Your Name]**
