@@ -37,7 +37,7 @@ A smart, AI-driven automation workflow built with n8n that captures career-relat
 
 | Telegram Interaction | Google Sheets Database |
 |---|---|
-| ![Telegram Bot](assets/telegram_ss.png) | ![Excel Spreadsheet](assets/excel_ss.png) |
+| ![Telegram Bot](assets/Screenshot 2026-04-22 033438.png) | ![Excel Spreadsheet](assets/excel_ss.png) |
 
 ## 🤝 Contributing
 Feel free to fork this repository, open issues, or submit pull requests to improve the bot's logic or add new features.
